@@ -1,0 +1,16 @@
+# Code::Blocks and MinGW build output
+/bin/Debug/
+/bin/Release/
+/obj/
+*.o
+
+# Code::Blocks per-user files
+*.depend
+*.layout
+
+# IDE and operating-system files
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
